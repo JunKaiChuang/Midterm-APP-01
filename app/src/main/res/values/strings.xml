@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="labelScore">成績:</string>
+    <string name="scoreTrans">成績轉換</string>
+    <string name="grade">等第:</string>
+    <string name="warning">輸入分數應介於[0..100]</string>
+</resources>
